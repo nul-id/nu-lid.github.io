@@ -51,7 +51,8 @@ nulid
   <div class="logo">
     NUL<span class="glyph">⧉</span>ID
   </div>
-  <div class="tagline">Linked, not owned.</div>
+  <div class="tagline">Linked.</div>
   <div class="footer">© 2025 NUL⧉ID™</div>
 </body>
 </html>
+<img src="assets/lpha-mascot.png" alt="Lpha the Sheepdog Daemon" width="300">
