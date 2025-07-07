@@ -1,4 +1,4 @@
-# nulid.github.io
+# nu-lid.github.io
 nulid
 <!DOCTYPE html>
 <html lang="en">
